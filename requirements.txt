@@ -5,10 +5,6 @@ Django==2.2.6
 docutils==0.15.2
 future==0.18.0
 idna==2.8
-Kivy==1.11.1
-kivy-deps.glew==0.1.12
-kivy-deps.sdl2==0.1.22
-Kivy-Garden==0.1.4
 pyglet==1.4.5
 Pygments==2.4.2
 pytz==2019.3
